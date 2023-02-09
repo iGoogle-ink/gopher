@@ -7,7 +7,7 @@ require (
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2 // indirect
 	github.com/apache/rocketmq-client-go/v2 v2.1.0
 	github.com/asim/go-micro/plugins/registry/etcd/v4 v4.0.0-20211026140708-d2a51d05c427
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-redis/redis/v8 v8.11.2
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/google/uuid v1.2.0
